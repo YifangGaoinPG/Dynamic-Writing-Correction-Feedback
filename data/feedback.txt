@@ -1,0 +1,57 @@
+{
+  "summary": "A clear response to the prompt with adequate coverage of ideas. Improvements are mainly needed in grammar accuracy (articles and tense control), precision of vocabulary, paragraph focus, and the explicit logical bridge between claims and evidence.",
+  "feedback": {
+    "Grammar": {
+      "summary": "Generally understandable sentences, but recurring article errors and inconsistent tense within body paragraphs reduce clarity.",
+      "issues": [
+        "Article omission before singular countable nouns (e.g., \"major reason\" → \"a major reason\").",
+        "Tense shift in the same paragraph when describing general facts vs. specific survey findings.",
+        "Occasional run-on sentences joined only with commas."
+      ],
+      "revision_tips": [
+        "For general truths use present simple; reserve past tense for specific studies or events.",
+        "During editing, underline singular countable nouns and ensure a/an/the where needed.",
+        "Split long sentences at natural clause boundaries; use semicolons or coordinators correctly."
+      ]
+    },
+    "Vocabulary": {
+      "summary": "Register is mostly academic, yet some vague or repetitive wording weakens precision and cohesion.",
+      "issues": [
+        "Repetition of \"important\", \"big\", \"a lot\" without nuance.",
+        "Colloquial verbs in formal context (e.g., \"get\" instead of \"obtain\").",
+        "A few verb–noun mismatches (e.g., \"make a research\" → \"conduct research\")."
+      ],
+      "revision_tips": [
+        "Replace generic adjectives with specific descriptors (e.g., \"substantial\", \"measurable\", \"sustained\").",
+        "Use academic verb choices such as \"demonstrate\", \"indicate\", \"facilitate\".",
+        "Create a personal collocation list for the topic area and apply consistently."
+      ]
+    },
+    "Organization": {
+      "summary": "The essay follows an introduction–two-body–conclusion structure, but topic sentences and paragraph unity can be sharper.",
+      "issues": [
+        "Topic sentences describe examples rather than state the controlling idea.",
+        "One paragraph mixes cause and effect without a clear boundary.",
+        "Conclusion introduces a new idea instead of synthesizing prior points."
+      ],
+      "revision_tips": [
+        "Start each body paragraph with a claim that previews the paragraph’s single focus.",
+        "Separate causes from effects or use sub-ordering within the paragraph (first… then…).",
+        "In the conclusion, restate stance and synthesize implications; avoid new evidence."
+      ]
+    },
+    "Reasoning": {
+      "summary": "The line of reasoning is visible but sometimes leaps from claim to example without an explicit warrant or quantification.",
+      "issues": [
+        "Evidence cited without explaining how it supports the claim (\"warrant\" is missing).",
+        "Generalizations drawn from a single example or unspecified \"surveys\".",
+        "Counter-argument acknowledged but not rebutted."
+      ],
+      "revision_tips": [
+        "After each example, add a one-sentence warrant (e.g., \"This suggests that… because…\").",
+        "Qualify claims with scope and, where possible, numbers or ranges instead of \"many/a lot\".",
+        "Include one concise rebuttal line addressing the strongest opposing view."
+      ]
+    }
+  }
+}
