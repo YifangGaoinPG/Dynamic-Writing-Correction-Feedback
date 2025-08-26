@@ -9,7 +9,7 @@ from PyPDF2 import PdfReader
 
 # =============== 配置区（这里改） ===============
 API_KEY      = "sk-REPLACE_WITH_YOUR_PROJECT_KEY"  # 本地测试可直写；生产建议用环境变量
-FILE_PATH    = r"D:\iLearning\StartStartWriting11Scopus批改系统_DOING\code\data\sample_essay.docx"
+FILE_PATH    = r"REPLACE_WITH_YOUR_FILE_PATH"
 MODEL        = "gpt-5"        # 或 "gpt-5-mini"
 MAX_CHARS    = 180_000
 MAX_OUTPUT   = 2048           # 返回的最大 tokens（根据需要调整）
@@ -186,3 +186,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
