@@ -1,4 +1,4 @@
-# IELTS Essay Feedback System
+# Dynamic Writing Correction Feedback System
 
 A minimal **Flask app** to upload essays and display structured feedback produced by `evaluate.py`.
 
