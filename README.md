@@ -74,5 +74,5 @@ python evaluate.py
 
 ## License
 
-MIT (or your choice).
+MIT.
 
